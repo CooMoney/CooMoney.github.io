@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="23" viewBox="0 0 90 23">
+  <g id="Group_191" data-name="Group 191" transform="translate(-272 -640)">
+    <g id="Group_190" data-name="Group 190" transform="translate(-32 367.667)">
+      <g id="Group_176" data-name="Group 176" transform="translate(304.021 272)">
+        <g id="Rectangle_122" data-name="Rectangle 122" transform="translate(-0.021 0.333)" fill="#8d8d8d" stroke="#dbdbdb" stroke-width="1">
+          <rect width="90" height="23" rx="7" stroke="none"/>
+          <rect x="0.5" y="0.5" width="89" height="22" rx="6.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_192" data-name="Group 192" transform="translate(-2270 -974.667)">
+        <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(2584 1257)" fill="#fff" stroke="#fff" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(2590 1257)" fill="#fff" stroke="#fff" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(2596 1257)" fill="#fff" stroke="#fff" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="Pending" transform="translate(306 656)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pending</tspan></text>
+  </g>
+</svg>
