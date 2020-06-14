@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.adf92454a343b554b6a44f5ece272206.js"
+  "precache-manifest.e5acb40f84770c58fb7a0dd0640cc0a3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "coomoney"});
