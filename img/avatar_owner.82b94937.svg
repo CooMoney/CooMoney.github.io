@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.192" height="36.192" viewBox="0 0 36.192 36.192">
+  <g id="Group_269" data-name="Group 269" transform="translate(-24.682 -559)">
+    <g id="_1177568" data-name="1177568" transform="translate(24.682 559)">
+      <path id="Path_45" data-name="Path 45" d="M36.192,18.1A18.1,18.1,0,1,1,18.1,0,18.1,18.1,0,0,1,36.192,18.1Zm0,0" fill="#57fff5"/>
+      <path id="Path_46" data-name="Path 46" d="M105.757,85.831a6.853,6.853,0,1,0-8.228,0,11.76,11.76,0,0,0-7.627,11h2.121a9.62,9.62,0,0,1,19.241,0h2.121a11.761,11.761,0,0,0-7.627-11ZM96.91,80.354a4.732,4.732,0,1,1,4.732,4.733A4.738,4.738,0,0,1,96.91,80.354Zm0,0" transform="translate(-83.547 -69.305)" fill="#00c7b9"/>
+    </g>
+    <g id="Group_262" data-name="Group 262" transform="translate(78.787 360.68) rotate(30)">
+      <g id="Ellipse_96" data-name="Ellipse 96" transform="translate(67 208)" fill="none" stroke="#02aa9e" stroke-width="2">
+        <circle cx="4.731" cy="4.731" r="4.731" stroke="none"/>
+        <circle cx="4.731" cy="4.731" r="3.731" fill="none"/>
+      </g>
+      <line id="Line_199" data-name="Line 199" x2="14.194" transform="translate(76.125 212.393)" fill="none" stroke="#02aa9e" stroke-linecap="round" stroke-width="2"/>
+      <g id="Rectangle_124" data-name="Rectangle 124" transform="translate(83.898 212.055)" fill="#f5f5f5" stroke="#02aa9e" stroke-width="1">
+        <rect width="2.028" height="2.704" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1.028" height="1.704" rx="0.5" fill="none"/>
+      </g>
+      <g id="Rectangle_125" data-name="Rectangle 125" transform="translate(87.277 212.055)" fill="#f5f5f5" stroke="#02aa9e" stroke-width="1">
+        <rect width="2.028" height="2.704" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1.028" height="1.704" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
